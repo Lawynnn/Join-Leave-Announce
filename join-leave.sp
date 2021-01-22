@@ -9,7 +9,7 @@ public Plugin myinfo =
 	author = "Lawyn",
 	description = "-",
 	version = "1.3",
-	url = "jb.pubzone.ro"
+	url = "jb.nevergo.ro"
 };
 
 public void OnClientPostAdminCheck(client)
