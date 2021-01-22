@@ -1,7 +1,6 @@
 #include <sourcemod>
 #include <sdktools>
 #include <cstrike>
-#include <emitsoundany>
 
 public Plugin myinfo = 
 {
